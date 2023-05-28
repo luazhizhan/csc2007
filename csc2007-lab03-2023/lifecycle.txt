@@ -1,0 +1,30 @@
+---------------------------- PROCESS STARTED (13030) for package edu.singaporetech.grocerylist ----------------------------
+2023-01-26 09:18:55.391 13030-13030 MainActivity            edu.singaporetech.grocerylist        D  onCreate()
+2023-01-26 09:18:55.517 13030-13030 MainActivity            edu.singaporetech.grocerylist        D  onStart()
+2023-01-26 09:18:55.520 13030-13030 MainActivity            edu.singaporetech.grocerylist        D  onResume()
+2023-01-26 09:20:12.207 13030-13030 MainActivity            edu.singaporetech.grocerylist        D  onPause()
+2023-01-26 09:20:12.554 13030-13030 MainActivity            edu.singaporetech.grocerylist        D  onStop()
+---------------------------- PROCESS ENDED (13030) for package edu.singaporetech.grocerylist ----------------------------
+---------------------------- PROCESS STARTED (15105) for package edu.singaporetech.grocerylist ----------------------------
+2023-01-26 09:20:38.410 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onCreate()
+2023-01-26 09:20:38.520 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onStart()
+2023-01-26 09:20:38.523 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onResume()
+2023-01-26 09:20:47.622 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onPause()
+2023-01-26 09:20:47.624 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onStop()
+2023-01-26 09:20:47.626 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onDestroy()
+2023-01-26 09:20:47.661 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onCreate()
+2023-01-26 09:20:47.701 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onStart()
+2023-01-26 09:20:47.703 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onResume()
+2023-01-26 09:20:49.481 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onPause()
+2023-01-26 09:20:49.482 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onStop()
+2023-01-26 09:20:49.483 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onDestroy()
+2023-01-26 09:20:49.517 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onCreate()
+2023-01-26 09:20:49.551 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onStart()
+2023-01-26 09:20:49.552 15105-15105 MainActivity            edu.singaporetech.grocerylist        D  onResume()
+
+The activity will call onCreate, onStart, onResume to make it visible.
+The activity will call onPause and onStop when it is suspended to the background.
+The process is killed when the app is forced stop.
+The process is started again when the app is being open.
+The activity will call onCreate, onStart, onResume to make it visible.
+The activity will call onPause, onStop, onDestroy, onCreate, onStart to onResume when the screen rotates.

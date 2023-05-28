@@ -1,0 +1,38 @@
+package edu.singaporetech.services
+
+import android.os.Bundle
+import androidx.appcompat.app.AppCompatActivity
+import edu.singaporetech.services.databinding.ActivityServiceBinding
+
+/**
+ * ICT2105 Lab 05
+ *
+ * Author: your teacher
+ * Updated: the day before your lab.
+ *
+ * TODO Add a Service (beyond this file) to constantly generate random numbers as specified in the
+ *      lab sheet. You get bonus l33t stars (not real marks sorry...) if you use coroutines for
+ *      threading in your Service.
+ */
+class ServiceActivity : AppCompatActivity() {
+    private lateinit var binding: ActivityServiceBinding
+
+    public override fun onCreate(savedInstanceState: Bundle?) {
+        super.onCreate(savedInstanceState)
+        binding = ActivityServiceBinding.inflate(layoutInflater)
+        setContentView(binding.root)
+
+        /**
+         * TODO On click "CURRENT RANDOM NUMBER" button, call method in RandomService to get
+         *      latest generated random number and display in textEditPrime TextEdit view.
+         */
+
+        /**
+         * TODO On click "CHECK PRIME" button, use a WorkManager to defer the prime testing to a
+         *      Worker object, and only do the testing when user is not low on battery.
+         *      Then get the result from the worker when done and display it in the textViewResult
+         *      TextView view.
+         */
+    }
+
+}

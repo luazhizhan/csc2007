@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">FourDigitDB</string>
+    <string name="generate_and_store">Generate and Store</string>
+    <string name="action_digitlist">Digit List</string>
+    <string name="show_grid">Grid View</string>
+    <string name="reset_data">RESET</string>
+    <string name="_0000">0000
+</string>
+</resources>

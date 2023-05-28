@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <TextView
+        android:id="@+id/textViewName"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/email_name"
+        android:textSize="22sp" />
+
+    <EditText
+        android:id="@+id/editTextName"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewName"
+        android:inputType="text"
+        android:text="@string/email_name_edit_text" />
+
+
+    <TextView
+        android:id="@+id/textViewEmail"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/email_email"
+        android:layout_below="@+id/editTextName"
+        android:textSize="22sp" />
+
+    <EditText
+        android:id="@+id/editTextEmail"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewEmail"
+        android:inputType="textEmailAddress"
+        android:text="@string/email_email_edit_text" />
+
+
+    <TextView
+        android:id="@+id/textViewCity"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/email_city"
+        android:layout_below="@+id/editTextEmail"
+        android:textSize="22sp" />
+
+    <EditText
+        android:id="@+id/editTextCity"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/textViewCity"
+        android:inputType="text"
+        android:text="@string/email_city_edit_text" />
+
+
+    <Button
+        android:id="@+id/previewMessageButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/editTextCity"
+        android:text="@string/email_preview_message" />
+
+    <Button
+        android:id="@+id/sendEmailButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@+id/previewMessageButton"
+        android:text="@string/email_send_email" />
+
+    <TextView
+        android:id="@+id/textViewPreview"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="10dp"
+        android:layout_below="@+id/sendEmailButton"
+        android:textSize="22sp" />
+
+</RelativeLayout>

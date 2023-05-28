@@ -1,0 +1,45 @@
+<resources>
+    <string name="app_name">TravelApp</string>
+    <string name="title_activity_temp_converter">Temperature Converter</string>
+    <string name="title_activity_currency_converter">Currency Converter</string>
+    <string name="title_activity_email">Send Email</string>
+    <string name="hey">Hey</string>
+    <string name="im_going_to">I\'m going to</string>
+    <string name="main_title">Los Angeles</string>
+    <string name="main_body">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla sit amet tincidunt elit, nec hendrerit ex. Maecenas a mollis elit. Donec ut malesuada libero. Nam nisi mauris, vehicula quis sapien et, convallis vehicula nisi. Integer cursus metus non felis elementum, et eleifend velit feugiat. Integer pulvinar tortor nec mattis vestibulum. Sed vel neque diam. Proin malesuada at odio id fringilla. Interdum et malesuada fames ac ante ipsum primis in faucibus. Morbi hendrerit, nulla a aliquet sagittis, leo magna egestas ex, ut pulvinar lacus ex eget mi. Interdum et malesuada fames ac ante ipsum primis in faucibus. Integer a tellus leo. Pellentesque suscipit vel neque non interdum. Morbi ac libero vitae metus fermentum convallis.
+
+Vivamus vel mi congue nisl suscipit cursus vel finibus quam. Curabitur fermentum augue ut metus mattis hendrerit. Nulla facilisi. Curabitur et dapibus ante. Cras tincidunt arcu quis felis iaculis ultricies. Donec hendrerit ante ut condimentum tempus. Aenean dictum lacinia aliquet. Nam quis laoreet dolor. Vivamus dignissim, lectus sed viverra convallis, odio lacus ornare enim, in pulvinar tellus eros id arcu. Donec ut consectetur dolor, nec facilisis dolor. Pellentesque maximus mattis nulla, ut scelerisque urna tempus ac. Proin a libero id odio facilisis blandit.
+
+Aenean rhoncus vestibulum tellus. Maecenas et imperdiet libero, sit amet feugiat velit. Fusce at scelerisque odio. Etiam vel mi molestie, gravida nisi a, ullamcorper justo. Donec in lorem efficitur, volutpat neque in, dignissim arcu. Sed aliquam luctus urna, vitae placerat massa tempor id. Sed aliquet felis eu risus elementum porta. Curabitur luctus a nisl ac vestibulum. Pellentesque varius, arcu sit amet volutpat egestas, nulla nunc rhoncus nunc, ut commodo augue lacus quis orci. Duis vitae erat dictum, varius sem quis, congue elit. Aliquam commodo posuere arcu, et auctor lectus sagittis eget. Donec non turpis sed nisi placerat efficitur. Suspendisse facilisis eros ullamcorper urna laoreet, sed euismod arcu feugiat. Nulla luctus ac lacus a eleifend. Sed id nisl nulla.
+
+Pellentesque suscipit metus magna, nec tincidunt quam tincidunt et. Quisque justo erat, pharetra nec elit sed, scelerisque viverra tortor. Maecenas aliquet venenatis fringilla. Nullam vitae dignissim lorem. Donec feugiat felis nibh, vitae gravida neque pellentesque et. Quisque a dolor quis lectus tristique rhoncus in non nunc. Fusce at volutpat erat. Integer vitae mauris suscipit, mollis magna vitae, eleifend eros. Duis quis massa vitae eros feugiat tincidunt quis eu dolor. Vestibulum fermentum velit vitae facilisis semper. Curabitur elementum bibendum est at dapibus. Donec quis porta lectus.
+
+Mauris quis orci dictum, accumsan leo eu, sagittis ante. Suspendisse potenti. Proin congue est id mauris maximus, vel congue felis finibus. Vivamus tempus nisi vel odio tempus, id scelerisque urna ultrices. Quisque mattis elit luctus viverra laoreet. In facilisis lacus eget efficitur porta. Aenean suscipit velit diam, non cursus nibh hendrerit a. Cras posuere tempus diam id vehicula. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia curae; Integer id lectus eget lacus pharetra egestas. Proin aliquam ligula odio, non tempus lorem commodo et. Aliquam sodales magna a ex ullamcorper, et scelerisque tortor pulvinar.
+
+Aenean eget ipsum augue. Duis aliquam sodales odio, vel elementum libero varius ut. Maecenas risus dui, ultricies in dui a, tristique semper justo. Maecenas vulputate leo quis velit interdum pellentesque. Fusce mollis condimentum turpis, sit amet volutpat lorem semper id. Sed vitae justo turpis. Phasellus id dictum lectus, vitae ultrices lacus. Sed eu congue ex. Sed fringilla enim lorem, ut facilisis massa dignissim vitae. Praesent at nibh non nunc rutrum placerat nec quis enim. Vestibulum vel facilisis justo. Duis nisl risus, ultricies quis mollis sed, interdum mattis tellus. Praesent quam ipsum, molestie nec nulla non, rutrum eleifend erat. Mauris feugiat quam ante, id condimentum ante porta ut. Donec egestas gravida placerat.</string>
+
+    <string name="currency_converter">CURRENCY CONVERTER</string>
+    <string name="temperature_converter">TEMPERATURE CONVERTER</string>
+    <string name="email_friend">EMAIL FRIEND</string>
+    <string name="currency_currency">Currency</string>
+    <string name="currency_currency_edit_text">US Dollars</string>
+    <string name="currency_rate">Rate</string>
+    <string name="currency_rate_edit_text">0.7</string>
+    <string name="currency_singapore_dollars">Singapore Dollars</string>
+    <string name="currency_sing_dollar_edit_text">1000</string>
+    <string name="currency_convert_button">CONVERT</string>
+    <string name="email_name">Name</string>
+    <string name="email_name_edit_text">Lua Zhi Zhan</string>
+    <string name="email_email">Email</string>
+    <string name="email_email_edit_text">2101393@sit.singaporetech.edu.sg</string>
+    <string name="email_city">City</string>
+    <string name="email_city_edit_text">Los Angeles</string>
+    <string name="email_preview_message">PREVIEW MESSAGE</string>
+    <string name="email_send_email">SEND EMAIL</string>
+    <string name="temp_temp_edit_text">Enter temperature here</string>
+    <string name="temp_fahrenheit_radio_button">to Fahrenheit</string>
+    <string name="temp_celsius_radio_button">to Celsius</string>
+    <string name="temp_convert_button">CONVERT</string>
+    <string name="temp_clear_button">CLEAR</string>
+
+</resources>

@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">GroceryList</string>
+    <string name="replace_this_textview_with_a_recyclerview">Replace this TextView with a RecyclerView</string>
+</resources>
